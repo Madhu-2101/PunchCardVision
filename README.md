@@ -1,4 +1,4 @@
-# PunchCardVision
+# Textile-Image-Processing
 
 PunchCardVision is a Python project that utilizes computer vision techniques to analyze and interpret punched card images. It can process punched card images, identify the presence or absence of punches in each column, and generate visual representations of the punched card data.
 
