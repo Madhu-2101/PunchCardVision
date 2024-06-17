@@ -16,10 +16,6 @@ PunchCardVision is a Python project that utilizes computer vision techniques to 
 ## Output
 Here are some examples of visualized punched card data:
 
-**Binary Representation**
-
-![Binary_Image](https://github.com/Madhu-2101/PunchCardVision/assets/86066580/72d582ee-caa0-4901-ae37-997f5419ff87)
-
 **Colored Representation**
 
 ![Colored_Image](https://github.com/Madhu-2101/PunchCardVision/assets/86066580/9b737fa8-4c2f-44de-9df1-7a4b22a38da0)
